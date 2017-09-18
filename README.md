@@ -3,7 +3,7 @@ This project displays an example art poll with each image displayed along with r
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 To run:
-- Pull code
+- Clone repository
 - cd to project folder
 - run ```yarn install```
 - run ``` yarn start```
