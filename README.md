@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To run:
 - Clone repository
-- cd to project folder
+- ```cd art_poll```
 - run ```yarn install```
 - run ``` yarn start```
 - navigate to http://http://localhost:3000/
