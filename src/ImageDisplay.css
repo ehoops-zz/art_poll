@@ -1,0 +1,37 @@
+.poll {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  margin: 40px;
+  max-width: 60vh;
+}
+
+.art {
+  align-self: center;
+  width: 100%;
+}
+
+.title {
+  font-size: 6vw;
+}
+
+.artist {
+  font-size: 2vw;
+  margin-left: 50%;
+}
+
+.ratingContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.rating {
+  height: 10vmin;
+  width: 10vmin;
+  border-radius: 50%;
+  margin: 1vmin;
+  border: 2px solid black;
+  background-color: white;
+  font-size: 16pt;
+}
